@@ -1,2 +1,2 @@
-# Stanford
-Stanford's SEE courses
+# proj
+ SEE courses
